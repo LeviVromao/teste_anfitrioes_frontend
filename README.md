@@ -14,5 +14,6 @@ Este Front End foi feito para servir a API feita em Python, ele consome os dados
 - Baixe o Docker no seu computador através desse link: `https://www.docker.com/get-started/`
 - Rode o Docker.
 - Depois do Docker rodando clone o repisitorio com o terminal usando o comando `git clone https://github.com/LeviVromao/teste_anfitrioes_frontend.git`
+- entre no diretorio usando ```cd teste_anfitrioes_frontend```
 - Use o `npm install`
-- Por fim, ainda no terminal rode o projeto usando ```npm run dev```.
+- Por fim, ainda no terminal rode o projeto usando ```npm run dev```
